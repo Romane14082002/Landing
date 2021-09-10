@@ -1,0 +1,33 @@
+@import url('components/avatar.css');
+@import url('components/navbar.css');
+@import url('components/button.css');
+@import url('components/container.css');
+@import url('components/logo.css');
+@import url('components/card.css');
+
+
+
+  body {
+    background-color: #548CA8;
+    font-family: 'Lora', sans-serif;
+    font-size: 10px;
+    margin: 0px;
+  }
+
+h1, h2, h3 {
+  font-weight: bold;
+  font-family:  Roboto, sans-serif;
+  font-size: 30px;
+}
+
+p {
+  justify-content: center;
+  text-align: justify;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+

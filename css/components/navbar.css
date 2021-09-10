@@ -1,0 +1,9 @@
+.navbar {
+	display: flex;
+	padding: 20px;
+	background-color: white;
+}
+
+.navbar h3 {
+	margin-right: 10px;
+}
